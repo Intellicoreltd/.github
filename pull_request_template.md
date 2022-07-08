@@ -32,7 +32,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 
 ># For Reviewers
->_As part of the review process, we require that you complete and commit a review checklist to the branch being reviewed; A template for this can be found [here](https://github.com/Intellicoreltd/.github/blob/master/code_review_template.md)._
+>_As part of the review process, we require that you complete and commit a review checklist to the branch being reviewed; A template for this can be found [here](https://raw.githubusercontent.com/Intellicoreltd/.github/master/code_review_template.md)._
 >
 >_When committing the code review checklist, the following naming convention should be adhered to;_
 >
