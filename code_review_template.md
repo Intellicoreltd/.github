@@ -82,7 +82,7 @@ Consider how the solution may affect the performance of the solution;
 
 
 ## Usability and Accessibility
-Consider how accessible the solution is to the end-users alike, and to other developers who may need to work with the solution in the future;
+Consider how accessible the solution is to the end-user, and to other developers who may need to work with the solution in the future;
 * _Is the API well documented?_
 * _Is the API/UI intuitive to use?_
 
