@@ -31,7 +31,9 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] New and existing unit tests pass locally with my changes
 
 
-># For Reviewers
+---
+# For Reviewers
+>
 >_As part of the review process, we require that you complete and commit a Code Review Checklist to the branch being reviewed; A template for this can be found [here](https://raw.githubusercontent.com/Intellicoreltd/.github/master/code_review_template.md)._
 >
 >_When committing the Code Review Checklist, the following naming convention should be adhered to;_
