@@ -29,3 +29,18 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] My changes generate no new warnings
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
+
+
+># For Reviewers
+>_As part of the review process, we require that you complete and commit a review checklist to the branch being reviewed; A template for this can be found [here](https://github.com/Intellicoreltd/.github/blob/master/code_review_template.md)._
+>
+>_When committing the code review checklist, the following naming convention should be adhered to;_
+>
+>_**Format:** `[YYYYMMDD]-PR[Pull Request Number]-[Your Initials].md`_ \
+>_**Example:** `20220315-PR86-SH.md`_
+>
+>_The file itself should be stored in the following directory;_
+>```
+>├── .documentation
+>│   ├── code-reviews
+>```
